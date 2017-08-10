@@ -5,9 +5,6 @@
 # github.com/aflick2486
 # aflickem@emich.edu
 
-# Reference
-# github.com/ppil/nix-user-audit
-
 
 readUsers() {
 	if [ -e /etc/shadow ]; then 	#Check if /etc/shadow exists and use as file
